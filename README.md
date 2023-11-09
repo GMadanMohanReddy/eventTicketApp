@@ -1,1 +1,1 @@
-# eventTicketApp
+# TiKons (Frontend)
